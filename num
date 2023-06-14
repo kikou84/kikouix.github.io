@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clavier numérique</title>
+</head>
+<body>
+  <label for="numeric-input">Entrez une valeur numérique :</label>
+  <input type="text" id="numeric-input" inputmode="numeric">
+</body>
+</html>
